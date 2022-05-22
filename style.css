@@ -23,3 +23,8 @@ body {
   padding: 20px;
     color: blueviolet;
 }
+footer{
+color:darkorange;
+border: 10px double	darkorange;
+width: 69%;
+}
